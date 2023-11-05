@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.codewithmazn_recyclerview_drag_and_drop"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.codewithmazn_recyclerview_drag_and_drop"
